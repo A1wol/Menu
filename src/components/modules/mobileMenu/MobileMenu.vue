@@ -44,7 +44,7 @@ const currentSubcategoriesSubcategorySubcategory = ref<object>()
 const categoryItems = ref<Array<[]>>()
 const categoryItemTitle = ref<string>('')
 
-const areCategoryItemsVisible = ref<boolean>(false)
+const areCategoryItemsVisible = ref<boolean>(true)
 const areSubcategoryItemsVisible = ref<boolean>(false)
 const areSubcategorySubcategoriesVisible = ref<boolean>(false)
 const areSubcategoriesSubcotegorySubcategoryVisible = ref<boolean>(false)
