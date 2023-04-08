@@ -30,8 +30,6 @@ import MobileSpecialOffers from './mobileMenu/MobileSpecialOffers.vue';
         }
 
         &__special-offers {
-            position: absolute;
-            bottom: 10px;
             display: flex;
         }
     }
